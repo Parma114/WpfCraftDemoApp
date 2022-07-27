@@ -1,0 +1,99 @@
+2022-07-27 14:45:40,453 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Tree
+2022-07-27 14:45:44,001 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 14:45:44,056 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 14:45:44,058 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 14:45:48,447 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for Tree
+2022-07-27 17:05:27,664 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Tree
+2022-07-27 17:05:28,794 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:05:28,841 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:05:28,842 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:05:28,843 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for Tree
+2022-07-27 17:05:46,574 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Bat
+2022-07-27 17:05:47,493 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:05:47,496 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:05:47,497 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:05:47,499 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for Bat
+2022-07-27 17:06:18,102 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for ball
+2022-07-27 17:06:18,732 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:06:18,734 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:06:18,737 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:06:18,739 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for ball
+2022-07-27 17:06:29,214 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Head
+2022-07-27 17:06:29,584 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:06:29,587 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:06:29,589 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:06:29,590 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for Head
+2022-07-27 17:07:05,686 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Deer
+2022-07-27 17:07:06,046 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:07:06,049 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:07:06,051 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:07:06,052 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for Deer
+2022-07-27 17:07:22,629 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Kayle Jenner
+2022-07-27 17:07:23,030 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:07:23,032 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:07:23,033 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:07:23,034 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for Kayle Jenner
+2022-07-27 17:07:46,023 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for kylie jenner
+2022-07-27 17:07:46,940 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:07:46,944 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:07:46,946 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:07:46,948 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for kylie jenner
+2022-07-27 17:08:14,177 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Kylie
+2022-07-27 17:08:15,259 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:08:15,259 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:08:15,260 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:08:15,260 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for Kylie
+2022-07-27 17:08:31,297 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Jenner
+2022-07-27 17:08:32,156 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:08:32,158 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:08:32,159 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:08:32,160 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for Jenner
+2022-07-27 17:08:47,133 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Rio de Generio
+2022-07-27 17:08:47,816 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:08:47,817 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:08:47,818 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:08:47,819 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for Rio de Generio
+2022-07-27 17:09:03,774 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for rio de janeiro
+2022-07-27 17:09:04,107 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:09:04,110 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:09:04,110 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:09:04,113 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for rio de janeiro
+2022-07-27 17:09:20,755 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Aishwarya roy
+2022-07-27 17:09:21,096 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:09:21,097 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:09:21,098 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:09:21,099 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for Aishwarya roy
+2022-07-27 17:09:34,044 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Ben 10
+2022-07-27 17:09:34,922 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:09:34,923 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:09:34,925 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:09:34,926 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for Ben 10
+2022-07-27 17:09:55,590 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for sponze bob
+2022-07-27 17:09:56,321 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:09:56,322 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:09:56,323 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:09:56,324 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for sponze bob
+2022-07-27 17:10:24,770 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for SpongeBob
+2022-07-27 17:10:25,105 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:10:25,107 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:10:25,109 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:10:25,111 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for SpongeBob
+2022-07-27 17:11:01,721 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for meme
+2022-07-27 17:11:02,802 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:11:02,804 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:11:02,805 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:11:02,806 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for meme
+2022-07-27 17:11:58,515 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for hoogly
+2022-07-27 17:11:59,004 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:11:59,007 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:11:59,008 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:11:59,009 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for hoogly
+2022-07-27 17:15:48,382 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Tree
+2022-07-27 17:15:49,004 [1] INFO WpfCraftDemoApp.Services.FlickrService - Starting the Json Deserialization.
+2022-07-27 17:15:49,049 [1] INFO WpfCraftDemoApp.Services.FlickrService - Deserialization Done. Returning...
+2022-07-27 17:15:49,050 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - StartSearch Dispatcher Running.
+2022-07-27 17:15:49,050 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Got Ok status code for Tree
+2022-07-27 17:45:32,910 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Tree
+2022-07-27 17:45:33,014 [1] ERROR WpfCraftDemoApp.Services.FlickrService - An error occurred while sending the request.
+2022-07-27 17:45:43,498 [1] INFO WpfCraftDemoApp.ViewModels.ViewModel - Starting the search for Mode
+2022-07-27 17:45:43,543 [1] ERROR WpfCraftDemoApp.Services.FlickrService - An error occurred while sending the request.
