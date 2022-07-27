@@ -130,7 +130,7 @@ namespace WpfCraftDemoApp.ViewModels
             }
             catch (NullOrWhiteSpaceException)
             {
-                SearchStatus = Resource.EnterTextForSearch;
+                
             }
             catch (SpecialCharacterException)
             {
